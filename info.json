@@ -1,0 +1,11 @@
+{
+    "name": "Brazilian Real State Coin",
+    "website": "https://brstc.org",
+    "description": "BRSTC is the official token to buy backed Brazilian real estate NFTs. Live on BSC and Polygon chains.",
+    "explorer": "0x24bf59f469277613d9fddfed4fab961d210363f43",
+    "type": "ERC20",
+    "symbol": "BRSTC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x24bf59f469277613d9fddfed4fab961d210363f43"
+}
